@@ -1,0 +1,29 @@
+<config>
+   <global>
+      <resources>
+         <default_setup>
+            <connection>
+               <host>localhost</host>
+               <username>travis</username>
+               <password>travis</password>
+               <dbname>rp2</dbname>
+               <initStatements>SET NAMES utf8</initStatements>
+               <model>mysql4</model>
+               <type>pdo_mysql</type>
+               <pdoType/>
+               <active>1</active>
+            </connection>
+         </default_setup>
+      </resources>
+   </global>
+   <default>
+      <web>
+         <secure>
+            <base_url>http://rp.dev/</base_url>
+         </secure>
+         <unsecure>
+            <base_url>http://rp.dev/</base_url>
+         </unsecure>
+      </web>
+   </default>
+</config>

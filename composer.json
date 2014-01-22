@@ -1,0 +1,15 @@
+{
+    "name": "kirchbergerknorr/magento-default",
+    "description": "Kirchbergerknorr Magento Default",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "authors": [
+        {
+            "name": "Aleksey Razbakov",
+            "email": "aleksey@razbakov.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
