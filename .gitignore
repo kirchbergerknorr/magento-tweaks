@@ -1,7 +1,6 @@
 .idea/
 .modgit/
 app/code/
-app/design/adminhtml/
 app/design/install/
 app/design/frontend/base/
 app/design/frontend/default/
