@@ -2,5 +2,5 @@ app/etc/local.xml app/etc/local.xml
 app/etc/local.xml.phpunit app/etc/local.xml.phpunit
 magento-check.php magento-check.php
 .gitignore .gitignore
-app/design/* app/design/
+app/design/adminhtml/* app/design/adminhtml/
 app/locale/* app/locale/
