@@ -4,7 +4,6 @@ app/code/
 app/design/install/
 app/design/frontend/base/
 app/design/frontend/default/
-app/etc/modules/
 app/etc/enterprise.xml
 app/etc/local.xml.additional
 app/etc/local.xml.template
