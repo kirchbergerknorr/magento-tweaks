@@ -1,9 +1,13 @@
 .idea/
 .modgit/
 app/code/
+app/locale/*
+app/locale/de_DE/Kirchbergerknorr*
+app/locale/en_US/Kirchbergerknorr*
 app/design/install/
 app/design/frontend/base/
 app/design/frontend/default/
+app/design/adminhtml/default/
 app/etc/enterprise.xml
 app/etc/local.xml.additional
 app/etc/local.xml.template
