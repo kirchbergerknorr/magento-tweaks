@@ -1,5 +1,5 @@
 {
-    "name": "kirchbergerknorr/magento-default",
+    "name": "kirchbergerknorr/magento",
     "description": "Kirchbergerknorr Magento Default",
     "type": "magento-module",
     "license":"OSL-3.0",
@@ -9,7 +9,29 @@
             "email": "aleksey@razbakov.com"
         }
     ],
+    "repositories": [
+        {"type": "git", "url": "https://github.com/razbakov/magento-debug"},
+        {"type": "git", "url": "https://github.com/razbakov/EcomDev_PHPUnit"},
+    ],
     "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+        "magento-hackathon/magento-composer-installer": "*",
+        "connect20/mage_all_latest": "*",
+        "firegento/psr0autoloader": "dev-master",
+        "firegento/magesetup": "*",
+    },
+    "require-dev": {
+        "fbrnc/aoe_templatehints": "*",
+        "fbrnc/aoe_profiler": "*",
+        "razbakov/magento-debug": "*",
+        "phpunit/phpunit": "3.7.*",
+        "phpunit/dbunit": ">=1.2",
+        "phpunit/php-invoker": "*",
+        "phpunit/phpunit-selenium": ">=1.2",
+        "ecomdev/ecomdev_phpunit": "dev-dev"
+    },
+    "extra": {
+        "magento-root-dir": "../webroot/",
+        "magento-deploystrategy": "copy",
+        "magento-force": "override"
     }
 }
