@@ -18,11 +18,11 @@
         
         "fbrnc/aoe_templatehints": "*",
         "fbrnc/aoe_profiler": "*",
-        "razbakov/magento-debug": "*",
+        "kirchbergerknorr/magento-debug": "*",
         "phpunit/phpunit": "3.7.*",
         "phpunit/dbunit": ">=1.2",
         "phpunit/php-invoker": "*",
         "phpunit/phpunit-selenium": ">=1.2",
-        "ecomdev/ecomdev_phpunit": "dev-dev"
+        "kirchbergerknorr/phpunit": "*"
     }
 }
