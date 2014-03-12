@@ -18,9 +18,8 @@
         "magento-hackathon/magento-composer-installer": "*",
         "connect20/mage_all_latest": "*",
         "firegento/psr0autoloader": "dev-master",
-        "firegento/magesetup": "*"
-    },
-    "require-dev": {
+        "firegento/magesetup": "*",
+        
         "fbrnc/aoe_templatehints": "*",
         "fbrnc/aoe_profiler": "*",
         "razbakov/magento-debug": "*",
