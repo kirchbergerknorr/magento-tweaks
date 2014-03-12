@@ -87,3 +87,4 @@ skin/install/
 var/
 vendor/
 magento-check.php
+phpunit.xml.dist
