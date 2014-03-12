@@ -3,6 +3,7 @@
     "description": "Kirchbergerknorr Magento Default",
     "type": "magento-module",
     "license":"OSL-3.0",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Aleksey Razbakov",
