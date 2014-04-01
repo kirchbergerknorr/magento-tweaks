@@ -1,6 +1,7 @@
 .idea/
 .modgit/
 app/code/
+!app/code/local/Kirchbergerknorr*
 app/locale/*
 !app/locale/de_DE/Kirchbergerknorr*
 !app/locale/en_US/Kirchbergerknorr*
