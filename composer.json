@@ -11,6 +11,6 @@
     ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "connect20/mage_all_latest": "*"
+        "connect20/mage_all_latest": "1.7.0.2"
     }
 }
