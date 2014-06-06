@@ -10,7 +10,6 @@
         {"type": "composer", "url": "http://packages.firegento.com"}
     ],
     "require": {
-        "magento-hackathon/magento-composer-installer": "*",
-        "connect20/mage_all_latest": "1.7.0.2"
+        "magento-hackathon/magento-composer-installer": "*"
     }
 }
