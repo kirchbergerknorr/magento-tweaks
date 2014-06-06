@@ -1,4 +1,4 @@
-Kirchbergerknorr Magento Default
+Kirchbergerknorr Magento Tweaks
 ======================================
 
 Initial files for every project
