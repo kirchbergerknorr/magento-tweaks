@@ -1,6 +1,6 @@
 {
     "name": "kirchbergerknorr/magento",
-    "description": "Kirchbergerknorr Magento Default",
+    "description": "Kirchbergerknorr Magento Tweaks",
     "type": "magento-module",
     "license":"OSL-3.0",
     "authors": [
