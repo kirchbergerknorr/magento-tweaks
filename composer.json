@@ -10,6 +10,7 @@
         {"type": "composer", "url": "http://packages.firegento.com"}
     ],
     "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+        "magento-hackathon/magento-composer-installer": "*",
+        "firegento/magesetup": "*"
     }
 }
