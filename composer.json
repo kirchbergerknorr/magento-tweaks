@@ -4,7 +4,7 @@
     "type": "magento-module",
     "license":"OSL-3.0",
     "authors": [
-        {"name": "Aleksey Razbakov", "email": "aleksey@razbakov.com"}
+        {"name": "Aleksey Razbakov", "email": "ar@kirchbergerknorr.de"}
     ],
     "repositories": [
         {"type": "composer", "url": "http://packages.firegento.com"}
